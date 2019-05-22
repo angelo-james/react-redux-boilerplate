@@ -1,4 +1,6 @@
-import TOGGLE_BUTTON from '../actions/types';
+import {
+  TOGGLE_BUTTON 
+} from '../actions/types';
 
 //import future actions above
 

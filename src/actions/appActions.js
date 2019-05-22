@@ -7,7 +7,7 @@ import {
 
 //below is where the logic of your action would happen before passing to the reducer
 
-export const toggleButton = () => {
+export const toggleButtonAction = () => {
   return {
     type: TOGGLE_BUTTON
   }
